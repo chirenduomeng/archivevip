@@ -31,8 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-github:
-  repo: 0xl2oot/webstack-jekyll
+# github:
+#   repo: 0xl2oot/webstack-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
