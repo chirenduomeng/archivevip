@@ -1,5 +1,5 @@
 - name: 常用推荐
-  icon: linecons-star
+  icon: fa fa-star-half-o" aria-hidden="true
   links: 
     - title: Dribbble
       logo: /assets/images/logos/dribbble.png
